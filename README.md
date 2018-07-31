@@ -1,0 +1,2 @@
+# Writers Database
+This project has the vision of creating an online database that would allow the user to locate a writer by typing his first or last name. The idea is to keep developing this project unitl it contains more detailed data that can become more functional for users. 
